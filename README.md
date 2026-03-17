@@ -30,7 +30,7 @@ EDA and user behavior analysis of MovieLens dataset
 
 ## Используемые данные
 
-Датасет: **MovieLens**
+Датасет: **MovieLens** (https://www.kaggle.com/datasets/sengzhaotoo/movielens-small)
 
 Содержит:
 - информацию о фильмах
@@ -60,7 +60,7 @@ EDA and user behavior analysis of MovieLens dataset
 Пользовательские оценки формируются под влиянием:
 
 - размера аудитории
-- распределения внимания (long tail)
+- распределения внимания
 - количества наблюдений
 - особенностей пользовательского поведения
 
@@ -75,27 +75,7 @@ EDA and user behavior analysis of MovieLens dataset
 - matplotlib / seaborn
 - Jupyter Notebook
 
----
+## Контакты
 
-## Как запустить
-
-1. Склонировать репозиторий  
-2. Установить зависимости  
-3. Открыть ноутбук `movieLens.ipynb`
-
----
-
-## Результат
-
-Проект демонстрирует навыки:
-
-- разведывательного анализа данных (EDA)
-- выявления закономерностей
-- интерпретации результатов
-- продуктового мышления
-
----
-
-## 📬 Контакты
-
-(сюда можешь добавить Telegram / email / GitHub)
+telegram: @pekopopuki
+mail: heylimmit@mail.ru
