@@ -1,6 +1,3 @@
-# movielens-analysis
-EDA and user behavior analysis of MovieLens dataset
-
 # MovieLens: анализ пользовательских оценок фильмов
 
 ## О проекте
