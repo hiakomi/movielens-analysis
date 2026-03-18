@@ -24,7 +24,7 @@
 
 ## Используемые данные
 
-Датасет: **MovieLens** (https://www.kaggle.com/datasets/sengzhaotoo/movielens-small)
+Датасет: [**MovieLens**](https://www.kaggle.com/datasets/sengzhaotoo/movielens-small)
 
 Содержит:
 - информацию о фильмах
